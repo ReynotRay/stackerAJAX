@@ -1,3 +1,6 @@
+body{
+	background-color: lightgrey;
+}
 .container {
 	margin: 3em auto;
 	width: 600px;
@@ -39,6 +42,8 @@
 	border: 1px solid black;
 	padding: 5px;
 	margin: 0 auto 1em auto;
+	margin-left: 162px;
+    margin-right: 231px;
 }
 
 .error {
